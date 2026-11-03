@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// lb 2
+#include <iostream>
 #include <stdexcept>
 
 using namespace std;
